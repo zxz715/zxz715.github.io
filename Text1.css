@@ -1,0 +1,47 @@
+body {
+  background-color: lightgrey;
+
+}
+
+h2 {
+  font-size: 35px;
+  color: #284646;
+  font-family: sans-serif;
+  /* Min farvet anden overskift */
+}
+
+h1 {
+  font-size: 60px;
+
+}
+
+h3 {
+  font-size: 25px;
+
+}
+
+#div1 {
+    width: 200px;
+    height: auto;
+    border-style: solid;
+
+}
+
+#div2 {
+  width: 599px;
+  height: 800px;
+  border-style: solid;
+  border-width: thick;
+  background-image: url(background.jpg);
+}
+
+#div3 {
+  text-align: center;
+  background-color: white;
+
+}
+
+#center {
+  text-align: center;
+
+}
